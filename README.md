@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi There! 
+###### I am Alan, a full-stack developer living in Kochi.
 
 <!--
 **alanbosco/alanbosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
